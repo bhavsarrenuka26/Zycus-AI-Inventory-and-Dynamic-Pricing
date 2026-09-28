@@ -177,5 +177,6 @@ The API configuration is kept outside the source code.
 LLM_API_KEY=your_api_key
 
 
-Database 
-<img width="428" height="172" alt="image" src="https://github.com/user-attachments/assets/cf3d1458-d932-4496-baf1-09f0d5ceed6c" />
+## Database
+
+![StockPulse Database](screenshots/database.png)
